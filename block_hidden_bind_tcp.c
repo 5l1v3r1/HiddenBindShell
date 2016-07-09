@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "stdafx.h"  //This file compiled with VS2010.
 #include <stdio.h>
 #include <winsock2.h>
 #include <iostream>
